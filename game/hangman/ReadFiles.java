@@ -1,14 +1,4 @@
-/**********************************************
- * Workshop 4 
- * Course: JAC444 - WINTER 2020
- * Last Name: Arellano
- * First Name: Alexis
- * ID: 155816184
- * Section: NDD
- * This assignment represents my own work in accordance with Seneca Academic Policy.
- *  - AA
- * Date: Tuesday October 20/2020
- * **********************************************/
+/* Alexis Arellano Tuesday Oct 20/2020 */
 
 package game.hangman;
 import java.io.File;
